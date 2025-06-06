@@ -10,3 +10,5 @@ Main aim of this work:
 Youtube Video link: https://www.youtube.com/watch?v=szczpgOEdXs
 
 Website to perform webscraping: https://www.imdb.com/title/tt0111161/reviews/ 
+
+Notebook drive link: https://colab.research.google.com/drive/1Ai_S1u6dug4HfNllUR0fDyo9H5sGyESz?usp=drive_link
